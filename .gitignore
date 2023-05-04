@@ -1,0 +1,16 @@
+# git ignore for ruby files
+*.gem
+*.rbc
+.DS_Store
+.bundle
+.config
+.rspec
+.sass-cache
+.zeus.sock
+/coverage/
+/InstalledFiles
+/pkg/
+vscode/
+.yardoc
+/_yardoc/
+/doc/
